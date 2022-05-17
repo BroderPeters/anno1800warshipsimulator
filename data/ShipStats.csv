@@ -1,0 +1,24 @@
+Type;Cargo Slots;Item Sockets;Hitpoints;Dmg per shot;Attack cooldown [s];Dmg per second;Attack Range;Speed [kn];Navigation;Naval Power
+Schooner;2;1;1000;;;;;4.4 15.8;20;0
+Gunboat;1;2;850;105;5;21;40;4.0 18.0;20;10
+Frigate;3;2;2000;140;5;28;55;4.2 18.7;10;20
+Clipper;4;1;2500;;;;;5.5 19.8;20;0
+Ship of the line;3;3;4000;525;10;53;68;3.2 14.4;0;50
+Cargo Ship;6;2;4000;;;;;10.4;20;0
+Battle Cruiser;3;4;6000;280;7;40;84;9.0;0;70
+Monitor;2;2;3000;93;3;31;48;10.6;20;30
+Oil Tanker;;0;5000;;;;;9.0;0;0
+World Class Reefer;6;1;5000;;;;;11.0;20;0
+Flagship;3;2;2000;175;4;44;55;8.0 18.0;15;20
+Airship;4;2;1200;;;;;9.4 32.8;;0
+Extravaganza Steamer;6;3;5000;;;;;10.4;20;0
+Pirate Gunboat;1;2;850;105;4;26;40;4.8 21.6;20;10
+Pirate Frigate;3;2;2000;140;4;35;55;5.0 22.5;10;20
+Pirate Ship of the line;3;3;4000;525;7.5;70;68;3.8 17.3;0;50
+Royal Ship of the line;3;3;5000;650;10;65;68;3.2 14.4;0;50
+Pirate Monitor;2;2;3000;93;2.4;39;48;12.7;20;30
+Pyrphorian Monitor;2;2;5000;55;1.5;37;24;10.6;20;30
+Pyrphorian Warship;2;2;6000;45;1;45;33;10.6;20;30
+Pyrphorian Battle Cruiser;3;4;8000;145;2.9;50;42;9.0;0;70
+Great Eastern;8;3;6500;;;;;11.0;20;0
+Salvager;6;3;4000;;;;;10.6;10;0

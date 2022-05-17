@@ -1,0 +1,5 @@
+Type;Hitpoints;Dmg per shot;Attack cooldown [s];Dmg per second;Attack Range
+Mounted Guns;3200;23;1;23;72
+Cannon Tower;4800;150;5;30;92
+Big Betty;7000;850;15;57;108
+Trading Post;9000;150;5;30;
